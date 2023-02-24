@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author amanodinmobariz
+ *
+ */
+module JavaProjectNew {
+}
