@@ -9,7 +9,7 @@ public class GitHubPracticeTwo {
 	
 	public int test (int x, int y, String message){
 		System.out.println(message);
-		intz = x+y;
+		int z = x+y;
 		return z;
 		
 	}
